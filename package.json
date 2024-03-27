@@ -1,0 +1,23 @@
+{
+  "name": "crusty",
+  "version": "0.0.1",
+  "description": "Rust integration with nodejs",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyguy1412/crusty.git"
+  },
+  "keywords": [
+    "rust",
+    "wasm"
+  ],
+  "author": "Shy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyguy1412/crusty/issues"
+  },
+  "homepage": "https://github.com/shyguy1412/crusty#readme"
+}
